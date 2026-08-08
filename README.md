@@ -8,7 +8,7 @@ Support & docs: [xeqmwallet.com/support](https://xeqmwallet.com/support) · [xeq
 
 ## Download
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <a href="https://xeqmwallet.com/xeqmwallet-v2.1.0.exe">
@@ -24,7 +24,7 @@ Support & docs: [xeqmwallet.com/support](https://xeqmwallet.com/support) · [xeq
       <br />
       <sub>xeqmwallet-v2.1.0.dmg · 79.8 MB</sub>
     </td>
-    <td align="center">
+    <td align="right">
       <a href="https://xeqmwallet.com/xeqmwallet-v2.1.0.zip">
         <img src="https://img.shields.io/badge/Download-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Download for Linux" />
       </a>

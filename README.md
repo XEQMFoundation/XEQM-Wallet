@@ -112,7 +112,7 @@ Networks are switched from the wallet screen: mainnet for real balances, testnet
 5. Confirm, and the wallet signs locally. Nothing leaves the machine except the signed transaction.
 6. Wait for a block to include it. The wallet shows the pending state until the chain reports the transfer.
 
-## Guides
+## Guides.
 
 Five pages for the first day, and the full index for everything after it.
 

